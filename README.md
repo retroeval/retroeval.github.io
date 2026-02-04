@@ -1,4 +1,4 @@
-# practicald2t.github.io
+# retroeval.github.io
 Homepage for Workshop on Practical LLM-assisted Data-to-Text Generation
 
 ## Editing
@@ -7,11 +7,11 @@ You can modify the pages directly on GitHub, and your changes will be pushed to 
 
 - Modify the main page (`index.md`):
 
-https://github.com/humeval/humeval.github.io/blob/main/index.md
+https://github.com/retroeval/retroeval.github.io/blob/main/index.md
 
 - Modify the specific pages (`cd _pages`):
 
-https://github.com/humeval/humeval.github.io/tree/main/_pages
+https://github.com/retroeval/retroeval.github.io/tree/main/_pages
 
 - Modify the navigation:
 
