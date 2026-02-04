@@ -76,8 +76,7 @@ We welcome two types of papers: archival papers and non-archival submissions. Sp
 
 
 ### Submission procedure and templates
-For the main and special track, please submit short and long papers directly through the [INLG submission portal](https://softconf.com/n/inlg2024/user/scmd.cgi?scmd=submitNew), selecting "Click HERE to make a new Practical Data-to-Text submission". 
-Choose the appropriate *submission type* (Long/Short Paper), *track* (Main/Neuro-Symbolic D2T) and *Proceedings Type* (Archival/Non-Archival).
+*OpenReview submission link coming soon*
 
 All submissions must follow the ACL 2026 submission template and guidelines.
 
