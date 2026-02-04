@@ -1,0 +1,7 @@
+main:
+  - title: "Home"
+    url: /index
+  - title: "Calls"
+    url: /_pages/cfp
+  - title: "Contacts"
+    url: /_pages/contacts
