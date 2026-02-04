@@ -8,19 +8,11 @@ header:
   overlay_filter: "0.1"
   overlay_image: /assets/images/uoa_library_banner.png
 ---
- <div class="forms-container">
 
- <!-- <div class="forms">
-    <img src="assets/images/github-logo.png">
-    <a href="https://github.com/practicald2t/hackathon/">
-    <p style="font-size: large">Hackathon – Github</p>
-    </a>
-</div> -->
-</div>
-
-# Workshop Programme
+# Symposium Programme
 All timings are in BST (Aberdeen, United Kingdom).
 
+## Monday, 1st of June, 2026
 | Time                     | Event                    |
 | ------------------------ | ------------------------------------ |
 | 09:30 09:40 | **Symposium Introduction** |
@@ -40,3 +32,21 @@ All timings are in BST (Aberdeen, United Kingdom).
 | 19:00 | **Dinner** |
 
 
+## Tuesday, 2nd of June, 2026
+| Time                     | Event                    |
+| ------------------------ | ------------------------------------ |
+| 09:30 09:40 | **Symposium Introduction** |
+| 09:40 10:40 | |
+| 10:40 11:10 | **Coffee Break** |
+| 11:10 12:10 | **Oral Session 1 (15 min oral + 5 min QA)** |
+| 11:10 11:30 | |
+| 11:30 11:50 | |
+| 11:50 12:10 | |
+| 12:10 13:40 | **Lunch** |
+| 13:40 14:40 | |
+| 14:40 15:30 | |
+| 15:30 16:00 | **Coffee Break** |
+| 16:00 17:20 | |
+| 17:20 18:20 |  |
+| 18:20 18:30 | **Closing** |
+| 19:00 | **Dinner** |
