@@ -22,6 +22,8 @@ The url (e.g., `/programme/`) in the navigation file should match the page perma
 
 ## Running locally
 
+To run the website locally you need a version of Ruby that is > 3.x.x, but is also < 4.x.x. Otherwise the ruby gem dependencies will not resolve. 
+
 1. Install [Jekyll](https://jekyllrb.com/docs/installation/)
 2. Clone the repository: `git clone https://github.com/humeval/humeval.github.io.git`
 2. Navigate to the repository directory 
