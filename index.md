@@ -56,6 +56,14 @@ Evaluation in the field of Natural Language Generation (NLG) has changed conside
       </a>
       <span>Utrecht University</span>
   </div>
+  
+  <div class="organizer" style="display: inline-block; text-align: center; width: 120px;">
+      <img src="../assets/images/organizers/standard-size/albert_gatt.png" alt="Albert Gatt" style="width: 100px; height: 100px; border-radius: 50%;">
+      <a href="https://www.uu.nl/staff/AGatt">
+          <p style="margin: 5px 0; font-weight: bold;">Albert Gatt</p>
+      </a>
+      <span>Utrecht University</span>
+  </div>
 
   <div class="organizer" style="display: inline-block; text-align: center; width: 120px;">
       <img src="../assets/images/organizers/standard-size/simone_balloccu.png" alt="Simone Ballocu" style="width: 100px; height: 100px; border-radius: 50%;">
