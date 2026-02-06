@@ -108,7 +108,9 @@ Evaluation in the field of Natural Language Generation (NLG) has changed conside
 
   <div class="organizer" style="display: inline-block; text-align: center; width: 120px;">
       <img src="../assets/images/organizers/standard-size/barkavi_sundararajan.jpeg" alt="Barkavi Sundararajan" style="width: 100px; height: 100px; border-radius: 50%;">
-      <p style="margin: 5px 0; font-weight: bold;">Barkavi Sundararajan</p>
+     <a href="https://barkavisundararajan.github.io">
+         <p style="margin: 5px 0; font-weight: bold;">Barkavi Sundararajan</p>
+     </a>
       <span>University of Aberdeen</span>
   </div>
 
