@@ -81,22 +81,6 @@ Evaluation in the field of Natural Language Generation (NLG) has changed conside
       <span>Hugging Face</span>
   </div>
 
-  <div class="organizer" style="display: inline-block; text-align: center; width: 120px;">
-      <img src="../assets/images/organizers/standard-size/alberto_bugarin.png" alt="Alberto Bugarín Diz" style="width: 100px; height: 100px; border-radius: 50%;">
-      <a href="https://nl4xai.eu/people/alberto-bugarin-diz/">
-          <p style="margin: 5px 0; font-weight: bold;">Alberto Bugarín Diz</p>
-      </a>
-      <span>CiTIUS, University of Santiago de Compostela</span>
-  </div>
-  
-  <div class="organizer" style="display: inline-block; text-align: center; width: 120px;">
-      <img src="../assets/images/organizers/standard-size/jose_maria_alonso_moral.png" alt="Jose María Alonso-Moral" style="width: 100px; height: 100px; border-radius: 50%;">
-      <a href="https://nl4xai.eu/people/jose-alonso/">
-          <p style="margin: 5px 0; font-weight: bold;">Jose María Alonso-Moral</p>
-      </a>
-      <span>CiTIUS, University of Santiago de Compostela</span>
-  </div>
-
 
   <div class="organizer" style="display: inline-block; text-align: center; width: 120px;">
       <img src="../assets/images/organizers/standard-size/adarsa_sivaprasad.png" alt="Adarsa Sivaprasad" style="width: 100px; height: 100px; border-radius: 50%;">
@@ -128,6 +112,22 @@ Evaluation in the field of Natural Language Generation (NLG) has changed conside
           <p style="margin: 5px 0; font-weight: bold;">Alexandra Johnstone</p>
       </a>
       <span>University of Aberdeen</span>
+  </div>
+  
+  <div class="organizer" style="display: inline-block; text-align: center; width: 120px;">
+      <img src="../assets/images/organizers/standard-size/alberto_bugarin.png" alt="Alberto Bugarín Diz" style="width: 100px; height: 100px; border-radius: 50%;">
+      <a href="https://nl4xai.eu/people/alberto-bugarin-diz/">
+          <p style="margin: 5px 0; font-weight: bold;">Alberto Bugarín Diz</p>
+      </a>
+      <span>CiTIUS, University of Santiago de Compostela</span>
+  </div>
+  
+  <div class="organizer" style="display: inline-block; text-align: center; width: 120px;">
+      <img src="../assets/images/organizers/standard-size/jose_maria_alonso_moral.png" alt="Jose María Alonso-Moral" style="width: 100px; height: 100px; border-radius: 50%;">
+      <a href="https://nl4xai.eu/people/jose-alonso/">
+          <p style="margin: 5px 0; font-weight: bold;">Jose María Alonso-Moral</p>
+      </a>
+      <span>CiTIUS, University of Santiago de Compostela</span>
   </div>
   
 </div> <!--organizer-container!-->
