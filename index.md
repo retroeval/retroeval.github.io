@@ -11,7 +11,14 @@ header:
 ## Symposium on Natural Language Generation Evaluations
 
 # News
-- 4th of February, 2026: The official RetroEval 2026 website is now online!
+<ul>
+  {% for post in site.posts %}
+    <li>
+      {{post.date | date: "%B %d, %Y"}}: {{ post.title }}
+      <i>{{ post.excerpt }}</i>
+    </li>
+  {% endfor %}
+</ul>
 
 # Background
 Evaluation in the field of Natural Language Generation (NLG) has changed considerably over the past several decades. This special symposium in honour of Prof. Ehud Reiter’s retirement provides a forum for academic and industry researchers to look back on the topic of how evaluations in the field of NLG have changed and to explore unaddressed challenges. The two day symposium will be held in-person at the [Sir Duncan Rice Library](https://www.abdn.ac.uk/library/libraries-spaces/the-sir-duncan-rice-library/) in the historic [University of Aberdeen](https://www.abdn.ac.uk), June 1-2, 2026. *For this symposium, we welcome submissions of long papers, short papers, and extended abstracts.*
