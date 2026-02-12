@@ -29,6 +29,7 @@ Evaluation in the field of Natural Language Generation (NLG) has changed conside
 
 - **First call for papers:** 06 February, 2026
 - **ARR commitment deadline (archival):** 16 March, 2026
+- **Abstract submission deadline (non-archival)**: 17 April, 2026
 - **Direct paper submission deadline (archival)**: 24 April, 2026
 - **Notification of acceptance:**  8 May, 2026
 - **Camera-ready:**  22 May, 2026
