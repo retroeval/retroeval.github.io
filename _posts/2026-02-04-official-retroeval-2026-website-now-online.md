@@ -1,1 +1,1 @@
-We are pleased to announce the <a href="_pages/cfp">first call for papers</a> and the website for EvalRetro 2026. Please stay tuned for more information including submission details.
+The submission portals for <a href="https://openreview.net/group?id=RetroEval/2026/Symposium_ARR_Commitment">ARR commitments</a> and <a href="https://openreview.net/group?id=RetroEval/2026/Symposium">direct submissions (archival and non-archival) are now available. 

@@ -1,0 +1,1 @@
+We are pleased to announce the <a href="_pages/cfp">first call for papers</a> and the website for EvalRetro 2026. Please stay tuned for more information including submission details.

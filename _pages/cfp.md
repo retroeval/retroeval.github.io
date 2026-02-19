@@ -77,7 +77,9 @@ We welcome two types of papers: archival papers and non-archival submissions. Sp
 
 
 ### Submission procedure and templates
-*OpenReview submission link coming soon*
+
+* <a href="https://openreview.net/group?id=RetroEval/2026/Symposium_ARR_Commitment">ARR commitments</a>
+* <a href="https://openreview.net/group?id=RetroEval/2026/Symposium">Direct submissions</a> (archival and non-archival) 
 
 All submissions must follow the ACL 2026 submission template and guidelines.
 
