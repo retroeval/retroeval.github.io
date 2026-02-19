@@ -4,4 +4,10 @@ var store = [{
         "tags": [],
         "url": "/official-retroeval-2026-website-now-online/",
         "teaser": null
+      },{
+        "title": "Submission Links Now Avaliable",
+        "excerpt":"The submission portals for ARR commitments and direct submissions (archival and non-archival) are now available.  ","categories": [],
+        "tags": [],
+        "url": "/submission-links-now-avaliable/",
+        "teaser": null
       }]
