@@ -10,4 +10,16 @@ var store = [{
         "tags": [],
         "url": "/submission-links-now-avaliable/",
         "teaser": null
+      },{
+        "title": "Second Call For Papers",
+        "excerpt":"We are pleased to announce the second call for papers. Please check the CfP page for more details.  ","categories": [],
+        "tags": [],
+        "url": "/second-call-for-papers/",
+        "teaser": null
+      },{
+        "title": "Final Call For Papers",
+        "excerpt":"We are pleased to announce the final call for papers. The deadline for direct paper submissions is the 17th of April for non-archival submissions and 24th of April for archival submissions. Please check the CfP page for more details.  ","categories": [],
+        "tags": [],
+        "url": "/final-call-for-papers/",
+        "teaser": null
       }]

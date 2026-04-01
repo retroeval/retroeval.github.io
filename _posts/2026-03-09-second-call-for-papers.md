@@ -1,0 +1,1 @@
+We are pleased to announce the second call for papers. Please check the <a href="_pages/cfp">CfP page</a> for more details. 
