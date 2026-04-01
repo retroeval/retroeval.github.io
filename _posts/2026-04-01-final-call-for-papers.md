@@ -1,1 +1,1 @@
-We are pleased to announce the final call for papers. The deadline for direct paper submissions is the 17th of April for non-archival submissions and 24th of April for archival submissions. Please check the <a href="_pages/cfp">CfP page</a> for more details. 
+We are pleased to announce the final call for papers. The deadline for direct paper submissions is the 17th of April for non-archival submissions and 24th of April for archival submissions 23:59 AoE. Please check the <a href="_pages/cfp">CfP page</a> for more details. 
