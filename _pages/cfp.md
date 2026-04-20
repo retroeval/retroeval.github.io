@@ -41,9 +41,9 @@ Note: All deadlines are 23:59 UTC-12.
 
 - ~~**First call for papers:** 06 February, 2026~~
 - ~~**ARR commitment deadline (archival):** 16 March, 2026~~
-- **Abstract submission deadline (non-archival)**: 17 April, 2026
-- **Direct paper submission deadline (archival)**: 24 April, 2026
-- **Notification of acceptance:**  8 May, 2026
+- ~~**Abstract submission deadline (non-archival)**: 17 April, 2026~~
+- **Extended Direct paper submission deadline (archival)**: 28 April, 2026 (was *24 April, 2026*)
+- **New Notification of acceptance:**  11 May, 2026 (was *8 May, 2026*)
 - **Camera-ready:**  22 May, 2026
 - **Symposium dates:** 1-2 June, 2026. Aberdeen, United Kingdom.
 

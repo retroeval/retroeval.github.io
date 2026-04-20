@@ -1,0 +1,1 @@
+The deadline for archival direct submissions has been extended to the 28th of April 23:59 AoE. Please check the <a href="_pages/cfp">CfP page</a> for more details. 

@@ -22,4 +22,10 @@ var store = [{
         "tags": [],
         "url": "/final-call-for-papers/",
         "teaser": null
+      },{
+        "title": "Extended Deadline For Archival Submissions",
+        "excerpt":"The deadline for archival direct submissions has been extended to the 28th of April 23:59 AoE. Please check the CfP page for more details.  ","categories": [],
+        "tags": [],
+        "url": "/extended-deadline-for-archival-submissions/",
+        "teaser": null
       }]
