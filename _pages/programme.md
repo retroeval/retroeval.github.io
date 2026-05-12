@@ -13,6 +13,7 @@ header:
 All timings are in BST (Aberdeen, United Kingdom). This is programme version 1.0.
 
 ## Monday, 1st of June, 2026
+
 | Time                     | Event                                | Details |
 | ------------------------ | ------------------------------------ | ------- |
 | 09:00 09:30 | Registration | |
@@ -37,6 +38,7 @@ All timings are in BST (Aberdeen, United Kingdom). This is programme version 1.0
 
 
 ## Tuesday, 2nd of June, 2026
+
 | Time                     | Event                    |
 | ------------------------ | ------------------------------------ |
 | 09:00 09:30 | Registration | | 
