@@ -5,3 +5,5 @@ Tickets are available per-item or as a whole package:
 - £22 for the Dunottar Castle excursion
 - £30 for the celebratory dinner
 - £70 for everything in one package
+
+The [programme for RetroEval](/_pages/programme) is also now available.
