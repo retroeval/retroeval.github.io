@@ -1,0 +1,1 @@
+We have now published the [guidelines for author(s)](/_pages/presentation_guidelines) for presenting their work at RetroEval 2026. Additionally, registration is now extended until **29th of May, 2026**: [Registration Booking Page](https://www.tickettailor.com/events/sicsa/2203784)

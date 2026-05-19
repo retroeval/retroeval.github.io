@@ -14,7 +14,7 @@ All timings are in BST (Aberdeen, United Kingdom). This is programme version 1.0
 
 ## Monday, 1st of June, 2026
 
-| Time                     | Event                                | Details |
+| Time                     | Event                                | Presenter(s) |
 | ------------------------ | ------------------------------------ | ------- |
 | 09:00 09:30 | Registration | |
 | 09:30 09:45 | **RetroEval 2026 Symposium Welcome** | |
@@ -39,14 +39,14 @@ All timings are in BST (Aberdeen, United Kingdom). This is programme version 1.0
 
 ## Tuesday, 2nd of June, 2026
 
-| Time                     | Event                    |
+| Time                     | Event                    | Presenter(s) |
 | ------------------------ | ------------------------------------ |
 | 09:00 09:30 | Registration | | 
 | 09:30 10:15 | **Keynote Speaker** | Beatrice Alex |
 | 10:15 10:45 | Coffee Break | |
 | 10:45 11:45 | **Food for Thought** | |
-| 10:45 11:15 | FT-1-1: Evaluation and Assessment as Complementary Frameworks | |
-| 11:15 11:45 | FT-1-2: Ehud Reiter and the University of Santiago de Compostela: some notes and memories | |
+| 10:45 11:15 | FT-1-1: Evaluation and Assessment as Complementary Frameworks | Elie Antoine |
+| 11:15 11:45 | FT-1-2: Ehud Reiter and the University of Santiago de Compostela: some notes and memories | Alejandro Ramos Soto, Nikolay Babakov, Javier González Corbelle, Jose Maria Alonso-Moral, Alberto Bugarín-Diz, Senén Barro |
 | 11:45 13:00 | **Lunch** | |
 | 13:00 13:45 | **Keynote Speaker** | Albert Gatt |
 | 13:45 14:00 | Get your tea and coffee for the poster session! |

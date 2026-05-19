@@ -34,4 +34,10 @@ var store = [{
         "tags": [],
         "url": "/reseveration-form-launched/",
         "teaser": null
+      },{
+        "title": "Presentation Details And Registration Extension",
+        "excerpt":"We have now published the guidelines for author(s) for presenting their work at RetroEval 2026. Additionally, registration is now extended until 29th of May, 2026: Registration Booking Page  ","categories": [],
+        "tags": [],
+        "url": "/presentation-details-and-registration-extension/",
+        "teaser": null
       }]

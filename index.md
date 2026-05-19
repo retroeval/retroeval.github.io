@@ -33,9 +33,10 @@ Evaluation in the field of Natural Language Generation (NLG) has changed conside
 - ~~**ARR commitment deadline (archival):** 16 March, 2026~~
 - ~~**Abstract submission deadline (non-archival)**: 17 April, 2026~~
 - ~~**Extended Direct paper submission deadline (archival)**: 28 April, 2026 (was *24 April, 2026*)~~
-- **New Notification of acceptance:**  11 May, 2026 (was *8 May, 2026*)
-- **Event Pre-registration:** 15 May, 2026 [[Pre-registration Portal](https://forms.office.com/e/ZbUmxGraAS)]
+- ~~**New Notification of acceptance:**  11 May, 2026 (was *8 May, 2026*)~~
+- ~~**Event Pre-registration:** 15 May, 2026 [[Pre-registration Portal](https://forms.office.com/e/ZbUmxGraAS)]~~
 - **Camera-ready:**  22 May, 2026
+- **Event Registration:** 29 May, 2026 [Registration Booking Page](https://www.tickettailor.com/events/sicsa/2203784) 
 - **Symposium dates:** 1-2 June, 2026. Aberdeen, United Kingdom.
 
 
