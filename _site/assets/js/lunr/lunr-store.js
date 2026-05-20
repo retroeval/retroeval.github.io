@@ -46,4 +46,10 @@ var store = [{
         "tags": [],
         "url": "/presentation-details-and-registration-extension/",
         "teaser": null
+      },{
+        "title": "Keynote Speaker Details",
+        "excerpt":"Keynote speaker details have now been published including talk titles and abstracts. Please take look at the Keynote Speakers page for more details.  ","categories": [],
+        "tags": [],
+        "url": "/keynote-speaker-details/",
+        "teaser": null
       }]
