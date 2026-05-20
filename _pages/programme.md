@@ -53,10 +53,10 @@ All timings are in BST (Aberdeen, United Kingdom). This is programme version 1.1
 | 13:45 14:00 | Get your tea 🫖 and coffee ☕️ for the poster session! |
 | 14:00 15:30 | **Poster Presentations** | |
 | ----- ----- | Poster 1-1: Towards Grounded Evaluation of Multimodal Machine Translation Systems | [Sami Ul Haq](https://sami-haq99.github.io/) and [Sheila Castilho](https://www.dcu.ie/adapt/people/sheila-castilho) |
-| ----- ----- | Poster 1-2: Checking for implicit assumptions in data-to-text generation | Kristýna Onderková, Ondrej Dusek |
-| ----- ----- | Poster 1-3: The Arabic Bible as an Evaluation tool: The Case Study of the Khalili Arabic Dialect | Jakub Zbrzezny, Ehud Reiter, Wei Zhao |
+| ----- ----- | Poster 1-2: Checking for implicit assumptions in data-to-text generation | [Kristýna Onderková](https://kristyna-navitas.github.io), [Ondrej Dusek](https://ufal.mff.cuni.cz/ondrej-dusek) |
+| ----- ----- | Poster 1-3: The Arabic Bible as an Evaluation tool: The Case Study of the Khalili Arabic Dialect | [Jakub Zbrzezny](https://www.abdn.ac.uk/people/jakub.zbrzezny), [Ehud Reiter](https://ehudreiter.com/), [Wei Zhao](https://www.abdn.ac.uk/people/wei.zhao) |
 | ----- ----- | Poster 1-4: The NL4XAI program: A retrospective | Jose Maria Alonso-Moral |
 | 15:30 16:30 | **Panel Discussions** | |
-| 15:30 16:00 | P-1-1: BabyTalk | Albert Gatt, Yaji Sirpada, [Saad Mahamood](https://saad.me.uk)  |
-| 16:00 16:30 | P-1-2: Commerical NLG | Iain Davy, Yaji Sirpada |
+| 15:30 16:00 | P-1-1: BabyTalk | [Albert Gatt](https://www.uu.nl/staff/AGatt), [Yaji Sirpada](https://www.abdn.ac.uk/people/yaji.sripada), [Saad Mahamood](https://saad.me.uk)  |
+| 16:00 16:30 | P-1-2: Commercial NLG - Data2Text | [Ian Davy](https://uk.linkedin.com/in/ian-davy-3052a01a), [Yaji Sirpada](https://www.abdn.ac.uk/people/yaji.sripada) |
 | 16:30 17:45 | Closing surprises 🤫 | |
