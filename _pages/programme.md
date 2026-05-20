@@ -18,7 +18,7 @@ All timings are in BST (Aberdeen, United Kingdom). This is programme version 1.0
 | ------------------------ | ------------------------------------ | ------- |
 | 09:00 09:30 | Registration | |
 | 09:30 09:45 | **RetroEval 2026 Symposium Welcome** | |
-| 09:45 10:30 | **Keynote Speaker** | Sina Zarrieß |
+| 09:45 10:30 | **Keynote:** [NLP Evaluation in the Face of Deceptively Fluent Models](keynotes#keynote-1-sina-zarieß---universität-bielefeld)   | [Sina Zarrieß](keynotes#keynote-1-sina-zarieß---universität-bielefeld) |
 | 10:30 10:45 | Coffee Break | |
 | 10:45 12:15 | **Oral Session 1: Evaluating NLG Architectures** | |
 | 10:45 11:15 | Oral 1-1: A Comparative Evaluation of End-to-End and Pipeline Approaches for Summarisation | Fahime Same, Saad Mahamood, Srinivas Ramesh Kamath | 
@@ -42,13 +42,13 @@ All timings are in BST (Aberdeen, United Kingdom). This is programme version 1.0
 | Time                     | Event                    | Presenter(s) |
 | ------------------------ | ------------------------------------ |
 | 09:00 09:30 | Registration | | 
-| 09:30 10:15 | **Keynote Speaker** | Beatrice Alex |
+| 09:30 10:15 | **Keynote** TBA | [Beatrice Alex](keynotes#keynote-2-beatrice-alex---heriot-watt-university) |
 | 10:15 10:45 | Coffee Break | |
 | 10:45 11:45 | **Food for Thought** | |
 | 10:45 11:15 | FT-1-1: Evaluation and Assessment as Complementary Frameworks | Elie Antoine |
 | 11:15 11:45 | FT-1-2: Ehud Reiter and the University of Santiago de Compostela: some notes and memories | Alejandro Ramos Soto, Nikolay Babakov, Javier González Corbelle, Jose Maria Alonso-Moral, Alberto Bugarín-Diz, Senén Barro |
 | 11:45 13:00 | **Lunch** | |
-| 13:00 13:45 | **Keynote Speaker** | Albert Gatt |
+| 13:00 13:45 | **Keynote:** [“It's cheaper if you don't involve people”](keynotes#keynote-3-albert-gatt---universiteit-utrecht) | [Albert Gatt](keynotes#keynote-3-albert-gatt---universiteit-utrecht) |
 | 13:45 14:00 | Get your tea and coffee for the poster session! |
 | 14:00 15:30 | **Poster Presentations** | |
 | ----- ----- | Poster 1-1: Towards Grounded Evaluation of Multimodal Machine Translation Systems | Sami Ul Haq and Sheila Castilho |

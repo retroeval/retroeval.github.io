@@ -7,6 +7,8 @@ main:
     url: https://www.tickettailor.com/events/sicsa/2203784
   - title: "Programme"
     url: /_pages/programme
+  - title: "Keynotes"
+    url: /_pages/keynotes
   - title: "Presentation Guidelines"
     url: /_pages/presentation_guidelines
   - title: "Contacts"

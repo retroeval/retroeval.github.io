@@ -25,6 +25,10 @@
 <lastmod>2026-04-28T00:00:00+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/registration-now-open/</loc>
+<lastmod>2026-05-12T00:00:00+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/presentation-details-and-registration-extension/</loc>
 <lastmod>2026-05-19T00:00:00+02:00</lastmod>
 </url>
@@ -41,13 +45,13 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/_pages/keynotes</loc>
+</url>
+<url>
 <loc>http://localhost:4000/_pages/presentation_guidelines</loc>
 </url>
 <url>
 <loc>http://localhost:4000/_pages/programme</loc>
-</url>
-<url>
-<loc>http://localhost:4000/2026-05-12-registration%20now%20open/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/assets/papers/</loc>

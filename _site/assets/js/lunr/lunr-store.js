@@ -35,6 +35,12 @@ var store = [{
         "url": "/reseveration-form-launched/",
         "teaser": null
       },{
+        "title": "Registration now open",
+        "excerpt":"Full registration is now open until 19th of May, 2026: Registration Booking Page Tickets are available per-item or as a whole package: £20 to register for the symposium day tracks £22 for the Dunottar Castle excursion £30 for the celebratory dinner £70 for everything in one package The programme for...","categories": [],
+        "tags": [],
+        "url": "/registration-now-open/",
+        "teaser": null
+      },{
         "title": "Presentation Details And Registration Extension",
         "excerpt":"We have now published the guidelines for author(s) for presenting their work at RetroEval 2026. Additionally, registration is now extended until 29th of May, 2026: Registration Booking Page  ","categories": [],
         "tags": [],

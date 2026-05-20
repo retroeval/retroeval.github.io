@@ -136,7 +136,9 @@ Evaluation in the field of Natural Language Generation (NLG) has changed conside
   
 </div> <!--organizer-container!-->
 
-
+## Endorsements
+#### ACL SIGGEN
+![Image](/assets/images/siggen-logo.png)
 
 
 
