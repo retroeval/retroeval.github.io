@@ -50,7 +50,7 @@ All timings are in BST (Aberdeen, United Kingdom). This is programme version 1.1
 | 11:15 11:45 | FT-1-2: Ehud Reiter and the University of Santiago de Compostela: some notes and memories | Alejandro Ramos Soto, Nikolay Babakov, Javier González Corbelle, Jose Maria Alonso-Moral, Alberto Bugarín-Diz, Senén Barro |
 | 11:45 13:00 | **Lunch** 🍴| |
 | 13:00 13:45 | **Keynote:** [“It's cheaper if you don't involve people”](keynotes#keynote-3-albert-gatt---universiteit-utrecht) | [Albert Gatt](keynotes#keynote-3-albert-gatt---universiteit-utrecht) |
-| 13:45 14:00 | Get your tea and coffee for the poster session! |
+| 13:45 14:00 | Get your tea 🫖 and coffee ☕️ for the poster session! |
 | 14:00 15:30 | **Poster Presentations** | |
 | ----- ----- | Poster 1-1: Towards Grounded Evaluation of Multimodal Machine Translation Systems | Sami Ul Haq and Sheila Castilho |
 | ----- ----- | Poster 1-2: Checking for implicit assumptions in data-to-text generation | Kristýna Onderková, Ondrej Dusek |
