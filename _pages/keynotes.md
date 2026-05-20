@@ -29,9 +29,9 @@ In this talk, I argue that this situation demands a new evaluation paradigm — 
 
 ![Image](/assets/images/keynote_speakers/beatrice_alex.jpg)
 
-### TBA
+### From Benchmark to Bedside: Lessons learned in Clinical Natural Language Processing 
 #### Abstract
-*TBA*
+Clinical Natural Language Processing (NLP) sits at the intersection of two communities with very different relationships to evaluation: NLP researchers, who measure their methods via benchmark performance, and clinicians, who need systems that are trustworthy and useful in practice for patients. Drawing on over a decade of research applied to brain health, processing NHS Scotland brain imaging reports and developing NLP tools to support research on disease prevention, prediction and cohort creation at population scale, this keynote reflects on what clinical NLP teaches us about evaluation. There are numerous challenges which make this type of work hard in practice: the lack of accessible datasets, the annotation bottleneck, the asymmetric effect of different error types and the disconnect between NLP performance and readiness for patients. Closing this gap requires more than better methods; it requires evaluation co-designed with clinical partners, transparent reporting on datasets and models and a commitment to measuring what actually matters for patients.
 
 ### Speaker Information
 [Beatrice Alex](https://www.hw.ac.uk/profiles/uk/school/macs/faculty/beatrice-alex) is a professor and the chair of Artificial Intelligence at [Heriot-Watt University](https://www.hw.ac.uk/). Prof. Alex's research focuses on text mining and natural language processing to extract information from raw text. In particular, she has focused her research into developing tools that can assist in predicting multimorbidity and adverse drug events to improve care in later life.  She's also leading the NLP work in the Warbler project with the aim to phenotype and analyse 1.7 mio brain imaging reports of the Scottish population. 

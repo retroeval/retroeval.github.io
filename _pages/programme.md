@@ -43,7 +43,7 @@ All timings are in BST (Aberdeen, United Kingdom). This is programme version 1.1
 | Time                     | Event                    | Presenter(s) |
 | ------------------------ | ------------------------------------ |
 | 09:00 09:30 | Registration | | 
-| 09:30 10:15 | **Keynote** TBA | [Beatrice Alex](keynotes#keynote-2-beatrice-alex---heriot-watt-university) |
+| 09:30 10:15 | **Keynote** [From Benchmark to Bedside: Lessons learned in Clinical Natural Language Processing](keynotes#keynote-2-beatrice-alex---heriot-watt-university)  | [Beatrice Alex](keynotes#keynote-2-beatrice-alex---heriot-watt-university) |
 | 10:15 10:45 | Coffee Break | |
 | 10:45 11:45 | **Food for Thought** | |
 | 10:45 11:15 | FT-1-1: Evaluation and Assessment as Complementary Frameworks | Elie Antoine |

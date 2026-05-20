@@ -13,6 +13,7 @@ header:
 
 Author(s) with accepted submissions have the following guidelines for each of the presentation types:
 
+* **Keynote Speakers**: 35 minutes oral presentation, followed by 10 minutes of questions and answers.
 * **Oral Presentation**: 20 minute oral presentation, followed by 10 minutes of question and answers.
 * **Poster Presentation**: Posters must be presented as A0 size.
 * **Food-for-thought Presentation**: 10 minute oral presentation, followed by 20 minutes of discussion time.
