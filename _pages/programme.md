@@ -10,14 +10,15 @@ header:
 ---
 
 # Symposium Programme
-All timings are in BST (Aberdeen, United Kingdom). This is programme version 1.0.
+All timings are in BST (Aberdeen, United Kingdom). This is programme version 1.1.
 
 ## Monday, 1st of June, 2026
 
 | Time                     | Event                                | Presenter(s) |
 | ------------------------ | ------------------------------------ | ------- |
 | 09:00 09:30 | Registration | |
-| 09:30 09:45 | **RetroEval 2026 Symposium Welcome** | |
+| 09:30 09:35 | **RetroEval 2026 Symposium Welcome** | |
+| 09:35 09:45 | **University of Aberdeen Introductory Remarks** | [Nir Oren](https://www.abdn.ac.uk/people/n.oren) |
 | 09:45 10:30 | **Keynote:** [NLP Evaluation in the Face of Deceptively Fluent Models](keynotes#keynote-1-sina-zarieß---universität-bielefeld)   | [Sina Zarrieß](keynotes#keynote-1-sina-zarieß---universität-bielefeld) |
 | 10:30 10:45 | Coffee Break | |
 | 10:45 12:15 | **Oral Session 1: Evaluating NLG Architectures** | |
