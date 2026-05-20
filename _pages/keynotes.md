@@ -11,7 +11,7 @@ header:
 
 # Keynote Speakers
 
-## Keynote 1: Sina Zarieß - Universität Bielefeld 
+## Keynote 1: Sina Zarrieß - Universität Bielefeld 
 
 ![Image](/assets/images/keynote_speakers/sina_zariess.jpg)
 
