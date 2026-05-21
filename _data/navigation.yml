@@ -11,5 +11,5 @@ main:
     url: /_pages/keynotes
   - title: "Presentation Guidelines"
     url: /_pages/presentation_guidelines
-  - title: "Contacts"
-    url: /_pages/contacts
+  - title: "About"
+    url: /_pages/about
