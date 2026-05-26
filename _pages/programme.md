@@ -60,7 +60,7 @@ All timings are in BST (Aberdeen, United Kingdom). This is programme version 1.4
 | 15:00 15:30 | 🟣 P-1-1: BabyTalk | [Albert Gatt](https://www.uu.nl/staff/AGatt), [Yaji Sirpada](https://www.abdn.ac.uk/people/yaji.sripada), [Saad Mahamood](https://saad.me.uk)  |
 | 15:30 16:00 | 🟣 P-1-2: Commercial NLG - Data2Text | [Ian Davy](https://uk.linkedin.com/in/ian-davy-3052a01a), [Yaji Sirpada](https://www.abdn.ac.uk/people/yaji.sripada), [Ehud Reiter](https://ehudreiter.com/) |
 | 16:00 16:15 | 🟤 Coffee Break ☕️| |
-| 15:00 16:45 | 🟣 **Panel Discussion II** | | [Saad Mahamood](https://saad.me.uk) |
+| 15:00 16:45 | 🟣 **Panel Discussion II** | | [Simone Balloccu](https://uccollab.github.io) |
 | 16:15 16:45 | 🟣 P-2-1: Retrospective on Referring Expression Generation | [Kees van Deemter](https://www.uu.nl/staff/CJvanDeemter), [Albert Gatt](https://www.uu.nl/staff/AGatt), [Sina Zarrieß](https://sinazarriess.github.io/), [Fahime Same](https://fsame.github.io)  |
 | 16:45 17:30 | 🔴 **Closing Keynote** “Lets Improve Research Culture”  | [Ehud Reiter](https://ehudreiter.com/) | [Saad Mahamood](https://saad.me.uk) |
 | 17:30 18:00 | ⚪️ Closing surprises 🤫 | |
