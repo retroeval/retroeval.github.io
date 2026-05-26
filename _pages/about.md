@@ -130,7 +130,7 @@ For symposium-related questions, please contact either Dave or Barkavi:
 
 **Dave Howcroft** 
 <details>
-  <summary>Dave Howcroft Contact Details</summary>
+  <summary style="color: green" onMouseOver="this.style.color='red'" onMouseOut="this.style.color='green'">Dave Howcroft Contact Details ⬇️</summary>
   <ul>
     <li><i>Email: 📧</i> <a href="mailto:dave.howcroft@abdn.ac.uk">dave.howcroft@abdn.ac.uk</a></li>
     <li><i>Call 📞 or SMS 💬:</i> +447849722445</li>
@@ -139,7 +139,7 @@ For symposium-related questions, please contact either Dave or Barkavi:
 <br />
 **Barkavi Sundararajan**
 <details>
-  <summary>Barkavi Sundararajan Contact Details</summary>
+  <summary style="color: green" onMouseOver="this.style.color='red'" onMouseOut="this.style.color='green'">Barkavi Sundararajan Contact Details ⬇️</summary>
   <ul>
     <li><i>Email: 📧</i> <a href="mailto:b.sundararajan.21@abdn.ac.uk ">b.sundararajan.21@abdn.ac.uk </a></li>
     <li><i>Call 📞 or WhatsApp 💬:</i> +447467846363</li>
