@@ -52,4 +52,10 @@ var store = [{
         "tags": [],
         "url": "/keynote-speaker-details/",
         "teaser": null
+      },{
+        "title": "Updated Venue Information",
+        "excerpt":"The venue information including travel and contact information has now been updated. Please take look at the Venue Information page for more details.  ","categories": [],
+        "tags": [],
+        "url": "/updated-venue-information/",
+        "teaser": null
       }]

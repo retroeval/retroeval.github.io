@@ -37,6 +37,10 @@
 <lastmod>2026-05-20T00:00:00+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/updated-venue-information/</loc>
+<lastmod>2026-05-26T00:00:00+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/_pages/about</loc>
 </url>
 <url>
@@ -56,6 +60,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/_pages/programme</loc>
+</url>
+<url>
+<loc>http://localhost:4000/2026-05-20-keynote-speaker-details/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/assets/papers/</loc>

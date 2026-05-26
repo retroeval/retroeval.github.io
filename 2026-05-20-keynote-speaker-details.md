@@ -1,0 +1,1 @@
+Keynote speaker details have now been published including talk titles and abstracts. Please take look at the [Keynote Speakers](_pages/keynotes) page for more details.

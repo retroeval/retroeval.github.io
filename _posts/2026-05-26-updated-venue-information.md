@@ -1,0 +1,1 @@
+The venue information including travel and contact information has now been updated. Please take look at the [Venue Information](_pages/about) page for more details.

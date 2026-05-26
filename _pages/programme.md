@@ -10,7 +10,7 @@ header:
 ---
 
 # Symposium Programme
-All timings are in BST (Aberdeen, United Kingdom). This is programme version 1.4.
+All timings are in BST (Aberdeen, United Kingdom). This is programme version 1.4.1.
 
 ## Monday, 1st of June, 2026
 
