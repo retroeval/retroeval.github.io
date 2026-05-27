@@ -1,0 +1,1 @@
+The [University of Aberdeen](https://www.abdn.ac.uk) has issued a press release celebrating the career of Prof. Ehud Reiter and his contributions to Natural Language Generation: [Ehud Reiter: Aberdeen academic whose words helped shape the age of AI retires](https://www.abdn.ac.uk/news/25619/).

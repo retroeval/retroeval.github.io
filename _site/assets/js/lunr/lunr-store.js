@@ -58,4 +58,10 @@ var store = [{
         "tags": [],
         "url": "/updated-venue-information/",
         "teaser": null
+      },{
+        "title": "University Of Aberdeen Press Release",
+        "excerpt":"The University of Aberdeen has issued a press release celebrating the career of Prof. Ehud Reiter and his contributions to Natural Language Generation: Ehud Reiter: Aberdeen academic whose words helped shape the age of AI retires.  ","categories": [],
+        "tags": [],
+        "url": "/university-of-aberdeen-press-release/",
+        "teaser": null
       }]
