@@ -10,7 +10,9 @@ header:
 ---
 
 # Symposium Programme
-All timings are in BST (Aberdeen, United Kingdom). This is programme version 1.4.1.
+All timings are in BST (Aberdeen, United Kingdom). This is programme version 1.4.2.
+
+The Symposium takes place on the 7th floor of the Sir Duncan Rice Library at the University of Aberdeen.
 
 ## Monday, 1st of June, 2026
 
