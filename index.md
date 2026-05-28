@@ -76,6 +76,15 @@ Evaluation in the field of Natural Language Generation (NLG) has changed conside
       </a>
       <span>TU Darmstadt</span>
   </div>
+  
+  <div class="organizer" style="display: inline-block; text-align: center; width: 120px;">
+      <img src="../assets/images/organizers/standard-size/margaret_mitchell.jpeg" alt="Margaret Mitchell" style="width: 100px; height: 100px; border-radius: 50%;">
+      <a href="https://www.m-mitchell.com/">
+          <p style="margin: 5px 0; font-weight: bold;">Margaret Mitchell</p>
+      </a>
+      <span>Hugging Face</span>
+  </div>
+
 
   <div class="organizer" style="display: inline-block; text-align: center; width: 120px;">
       <img src="../assets/images/organizers/standard-size/adarsa_sivaprasad.png" alt="Adarsa Sivaprasad" style="width: 100px; height: 100px; border-radius: 50%;">
@@ -93,6 +102,22 @@ Evaluation in the field of Natural Language Generation (NLG) has changed conside
       <span>University of Aberdeen</span>
   </div>
 
+  <div class="organizer" style="display: inline-block; text-align: center; width: 120px;">
+      <img src="../assets/images/organizers/standard-size/chenghua_lin.jpg" alt="Chenghua Lin" style="width: 100px; height: 100px; border-radius: 50%;">
+      <a href="https://chenghua-lin.github.io">
+          <p style="margin: 5px 0; font-weight: bold;">Chenghua Lin</p>
+      </a>
+      <span>Manchester University</span>
+  </div>
+
+  <div class="organizer" style="display: inline-block; text-align: center; width: 120px;">
+      <img src="../assets/images/organizers/standard-size/alex_johnstone.png" alt="Alexandra Johnstone" style="width: 100px; height: 100px; border-radius: 50%;">
+      <a href="https://www.abdn.ac.uk/people/alex.johnstone">
+          <p style="margin: 5px 0; font-weight: bold;">Alexandra Johnstone</p>
+      </a>
+      <span>University of Aberdeen</span>
+  </div>
+  
   <div class="organizer" style="display: inline-block; text-align: center; width: 120px;">
       <img src="../assets/images/organizers/standard-size/alberto_bugarin.png" alt="Alberto Bugarín Diz" style="width: 100px; height: 100px; border-radius: 50%;">
       <a href="https://nl4xai.eu/people/alberto-bugarin-diz/">
