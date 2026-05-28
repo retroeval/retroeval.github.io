@@ -10,7 +10,7 @@ header:
 ---
 # About RetroEval 2026
 
-* [Presentation Guidelines](#presentation-guidelines-)
+* [Presentation Guidelines](#presentation-guidelines-)📏
 * [Venue & Travel Information](#venue--travel-information)✈️
 * [Payments and Currency](#payments-and-currency-)💷 
 * [Food and Dietary Requirements](#food-and-dietary-requirements-)🥗
