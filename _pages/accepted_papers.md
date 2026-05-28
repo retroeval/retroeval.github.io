@@ -1,6 +1,6 @@
 ---
 layout: splash
-excerpt: "Practical D2T at INLG 2024<br/> Tokyo, Japan, 23 Sept, 2024"
+excerpt: "RetroEval 2026<br/> Aberdeen, United Kingdom, 1-2 June, 2026"
 permalink: /_pages/accepted_papers
 classes: wide
 header:
@@ -8,29 +8,49 @@ header:
   overlay_filter: "0.1"
   overlay_image: /assets/images/uoa_library_banner.png
 ---
- <div class="forms-container">
-
- <!-- <div class="forms">
-    <img src="assets/images/github-logo.png">
-    <a href="https://github.com/practicald2t/hackathon/">
-    <p style="font-size: large">Hackathon – Github</p>
-    </a>
-</div> -->
-</div>
-
 
 # Accepted Papers
 
-* [Beyond the Hype: Identifying and Analyzing Math Word Problem-Solving Challenges for Large Language Models](https://drive.google.com/file/d/1L1L5LsnrQprvmDUAMdJGKrYT87NupvQ0/view?usp=sharing)
-<br/> Romina Soledad Albornoz-De Luise, David Arnau, Pablo Arnau-González and Miguel Arevalillo-Herráez
+* [Decomposition Does Not Help: Evidence from Semantic Clustering in LLM-based Causal Graph Discovery](/assets/papers/1.pdf)
+<br/> Nikolay Babakov and Alberto Bugarín-Diz
 
-* [Controllable Synthetic Clinical Note Generation with Privacy Guarantees](https://drive.google.com/file/d/1U0KHbLCUv9bn20WtoGehwglFmRwlSOwC/view?usp=sharing)
-<br/> Tal Baumel, Andre Manoel, Shize Su, Daniel Jones, Huseyin Inan, Aaron Ari Bornstein and Robert Sim
+* [NLG Evaluation: Past, Present, Future](/assets/papers/6.pdf)
+<br/> Ehud Reiter
 
-* [Enhancing Situation Awareness through Model-Based Explanation Generation
-](https://drive.google.com/file/d/12IDFQKv_48ubx4hwx_qsH9qj_cx7hJu7/view?usp=sharing)
-<br/> Konstantinos Gavriilidis, Ioannis Konstas, Helen Hastie, Andrea Munafo and Wei Pang
+* [Evaluation and Assessment as Complementary Frameworks
+](/assets/papers/7.pdf)
+<br/> Elie Antoine
 
-## Acknowledgments
-<p>Funded by the European Union (ERC, NG-NLG, 101039303)</p>
-<img src="/assets/images/erc.png" style="max-width: 300px;" alt="ERC">
+* [The Arabic Bible as an Evaluation Tool: The Case Study of the Khalīlī Arabic Dialect
+](/assets/papers/8.pdf)
+<br/> Jakub Zbrzeżny, Ehud Reiter, and Wei Zhao
+
+* [RAG as a collapsed NLG pipeline
+](/assets/papers/9.pdf)
+<br/> Adarsa Sivaprasad, Barkavi Sundararajan and David M. Howcroft
+
+* [A Comparative Evaluation of End-to-End and Pipeline Approaches for Summarisation
+](/assets/papers/11.pdf)
+<br/> Fahime Same, Saad Mahamood and Srinivas Ramesh Kamath
+
+* [Solving the Task but Not the Problem: A Customer Support Case Study on Why Extrinsic Evaluation Matters
+](/assets/papers/12.pdf)
+<br/> Daniel Braun
+
+* [Never Truly Out of Fashion: A Retrospective Look at Evaluation in NLG
+](/assets/papers/13.pdf)
+<br/> Patrícia Schmidtová, Saad Mahamood and Ondřej Dušek
+
+# Accepted Extended Abstracts
+
+* [Towards Grounded Evaluation of Multimodal Machine Translation Systems](/assets/papers/2.pdf)
+<br/> Sami Ul Haq and Sheila Castilho
+
+* [The NL4XAI program: A retrospective](/assets/papers/3.pdf)
+<br/> Jose Maria Alonso-Moral
+
+* [Ehud Reiter and the University of Santiago de Compostela: some notes and memories](/assets/papers/4.pdf)
+<br/> Alejandro Ramos Soto, Nikolay Babakov, Javier González Corbelle, Jose Maria Alonso-Moral, and Alberto Bugarín-Diz, Senén Barro
+
+* [Checking for Implicit Assumptions in Data-to-text Generation](/assets/papers/5.pdf)
+<br/> Kristýna Onderková and Ondrej Dusek

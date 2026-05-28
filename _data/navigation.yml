@@ -9,7 +9,7 @@ main:
     url: /_pages/programme
   - title: "Keynotes"
     url: /_pages/keynotes
-  - title: "Presentation Guidelines"
-    url: /_pages/presentation_guidelines
+  - title: "Accepted Papers"
+    url: /_pages/accepted_papers
   - title: "Venue"
     url: /_pages/about
