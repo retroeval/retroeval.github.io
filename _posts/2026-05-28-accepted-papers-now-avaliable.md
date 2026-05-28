@@ -1,0 +1,1 @@
+Both accepted archival papers and extended abstracts are now published under the [Accepted Papers](/_pages/accepted_papers) page. 

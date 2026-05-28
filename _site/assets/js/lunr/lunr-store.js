@@ -64,4 +64,10 @@ var store = [{
         "tags": [],
         "url": "/university-of-aberdeen-press-release/",
         "teaser": null
+      },{
+        "title": "Accepted Papers Now Avaliable",
+        "excerpt":"Both accepted archival papers and extended abstracts are now published under the Accepted Papers page.  ","categories": [],
+        "tags": [],
+        "url": "/accepted-papers-now-avaliable/",
+        "teaser": null
       }]
