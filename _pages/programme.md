@@ -62,7 +62,7 @@ The Symposium takes place on the 7th floor of the Sir Duncan Rice Library at the
 | 14:45 15:15 | 🟣 P-1-1: BabyTalk | [Albert Gatt](https://www.uu.nl/staff/AGatt), [Yaji Sirpada](https://www.abdn.ac.uk/people/yaji.sripada), [Saad Mahamood](https://saad.me.uk)  |
 | 15:15 15:45 | 🟣 P-1-2: Commercial NLG - Data2Text | [Ian Davy](https://uk.linkedin.com/in/ian-davy-3052a01a), [Yaji Sirpada](https://www.abdn.ac.uk/people/yaji.sripada), [Ehud Reiter](https://ehudreiter.com/) |
 | 15:45 16:00 | 🟤 Coffee Break ☕️| |
-| 16:00 17:45 | 🟣 **Panel Discussion II** | | [Kees van Deemter](https://www.uu.nl/staff/CJvanDeemter) |
-| 16:00 17:45 | 🟣 P-2-1: Retrospective on Referring Expression Generation | [Ehud Reiter](https://ehudreiter.com/), [Albert Gatt](https://www.uu.nl/staff/AGatt), [Sina Zarrieß](https://sinazarriess.github.io/), [Fahime Same](https://fsame.github.io)  |
-| 17:45 17:30 | 🔴 **Closing Keynote** “Lets Improve Research Culture”  | [Ehud Reiter](https://ehudreiter.com/) | [Saad Mahamood](https://saad.me.uk) |
+| 16:00 16:45 | 🟣 **Panel Discussion II** | | [Kees van Deemter](https://www.uu.nl/staff/CJvanDeemter) |
+| 16:00 16:45 | 🟣 P-2-1: Retrospective on Referring Expression Generation | [Ehud Reiter](https://ehudreiter.com/), [Albert Gatt](https://www.uu.nl/staff/AGatt), [Sina Zarrieß](https://sinazarriess.github.io/), [Fahime Same](https://fsame.github.io)  |
+| 16:45 17:30 | 🔴 **Closing Keynote** “Lets Improve Research Culture”  | [Ehud Reiter](https://ehudreiter.com/) | [Saad Mahamood](https://saad.me.uk) |
 | 17:30 18:00 | ⚪️ Closing surprises 🤫 | |
