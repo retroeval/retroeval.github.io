@@ -53,16 +53,16 @@ The Symposium takes place on the 7th floor of the Sir Duncan Rice Library at the
 | 11:45 13:00 | 🟤 **Lunch** 🍴| |
 | 13:00 13:45 | 🔴 **Keynote:** [“It's cheaper if you don't involve people”](keynotes#keynote-3-albert-gatt---universiteit-utrecht) | [Albert Gatt](keynotes#keynote-3-albert-gatt---universiteit-utrecht) | [Simone Balloccu](https://uccollab.github.io) |
 | 13:45 14:00 | 🟤 Get your tea 🫖 and coffee ☕️ for the poster session! |
-| 14:00 15:00 | 🟢 **Poster Presentations** | | [Barkavi Sundararajan](https://barkavisundararajan.github.io) |
+| 13:45 14:45 | 🟢 **Poster Presentations** | | [Barkavi Sundararajan](https://barkavisundararajan.github.io) |
 | ----- ----- | 🟢 Poster 1-1: Towards Grounded Evaluation of Multimodal Machine Translation Systems | [Sami Ul Haq](https://sami-haq99.github.io/) and [Sheila Castilho](https://www.dcu.ie/adapt/people/sheila-castilho) |
 | ----- ----- | 🟢 Poster 1-2: Checking for implicit assumptions in data-to-text generation | [Kristýna Onderková](https://kristyna-navitas.github.io), [Ondrej Dusek](https://ufal.mff.cuni.cz/ondrej-dusek) |
 | ----- ----- | 🟢 Poster 1-3: The Arabic Bible as an Evaluation tool: The Case Study of the Khalili Arabic Dialect | [Jakub Zbrzezny](https://www.abdn.ac.uk/people/jakub.zbrzezny), [Ehud Reiter](https://ehudreiter.com/), [Wei Zhao](https://www.abdn.ac.uk/people/wei.zhao) |
 | ----- ----- | 🟢 Poster 1-4: The NL4XAI program: A retrospective | [Jose Maria Alonso-Moral](https://citius.gal/team/jose-maria-alonso-moral/) |
-| 15:00 16:45 | 🟣 **Panel Discussion I** | | [David M. Howcroft](https://davehowcroft.com) |
-| 15:00 15:30 | 🟣 P-1-1: BabyTalk | [Albert Gatt](https://www.uu.nl/staff/AGatt), [Yaji Sirpada](https://www.abdn.ac.uk/people/yaji.sripada), [Saad Mahamood](https://saad.me.uk)  |
-| 15:30 16:00 | 🟣 P-1-2: Commercial NLG - Data2Text | [Ian Davy](https://uk.linkedin.com/in/ian-davy-3052a01a), [Yaji Sirpada](https://www.abdn.ac.uk/people/yaji.sripada), [Ehud Reiter](https://ehudreiter.com/) |
-| 16:00 16:15 | 🟤 Coffee Break ☕️| |
-| 15:00 16:45 | 🟣 **Panel Discussion II** | | [Simone Balloccu](https://uccollab.github.io) |
-| 16:15 16:45 | 🟣 P-2-1: Retrospective on Referring Expression Generation | [Kees van Deemter](https://www.uu.nl/staff/CJvanDeemter), [Albert Gatt](https://www.uu.nl/staff/AGatt), [Sina Zarrieß](https://sinazarriess.github.io/), [Fahime Same](https://fsame.github.io)  |
-| 16:45 17:30 | 🔴 **Closing Keynote** “Lets Improve Research Culture”  | [Ehud Reiter](https://ehudreiter.com/) | [Saad Mahamood](https://saad.me.uk) |
+| 14:45 15:45 | 🟣 **Panel Discussion I** | | [Simone Balloccu](https://uccollab.github.io) |
+| 14:45 15:15 | 🟣 P-1-1: BabyTalk | [Albert Gatt](https://www.uu.nl/staff/AGatt), [Yaji Sirpada](https://www.abdn.ac.uk/people/yaji.sripada), [Saad Mahamood](https://saad.me.uk)  |
+| 15:15 15:45 | 🟣 P-1-2: Commercial NLG - Data2Text | [Ian Davy](https://uk.linkedin.com/in/ian-davy-3052a01a), [Yaji Sirpada](https://www.abdn.ac.uk/people/yaji.sripada), [Ehud Reiter](https://ehudreiter.com/) |
+| 15:45 16:00 | 🟤 Coffee Break ☕️| |
+| 16:00 17:45 | 🟣 **Panel Discussion II** | | [Kees van Deemter](https://www.uu.nl/staff/CJvanDeemter) |
+| 16:00 17:45 | 🟣 P-2-1: Retrospective on Referring Expression Generation | [Ehud Reiter](https://ehudreiter.com/), [Albert Gatt](https://www.uu.nl/staff/AGatt), [Sina Zarrieß](https://sinazarriess.github.io/), [Fahime Same](https://fsame.github.io)  |
+| 17:45 17:30 | 🔴 **Closing Keynote** “Lets Improve Research Culture”  | [Ehud Reiter](https://ehudreiter.com/) | [Saad Mahamood](https://saad.me.uk) |
 | 17:30 18:00 | ⚪️ Closing surprises 🤫 | |
