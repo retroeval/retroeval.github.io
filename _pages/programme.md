@@ -10,7 +10,7 @@ header:
 ---
 
 # Symposium Programme
-All timings are in BST (Aberdeen, United Kingdom). This is programme version 1.4.2.
+All timings are in BST (Aberdeen, United Kingdom). This is programme version 1.4.3.
 
 The Symposium takes place on the 7th floor of the Sir Duncan Rice Library at the University of Aberdeen.
 
@@ -54,7 +54,7 @@ The Symposium takes place on the 7th floor of the Sir Duncan Rice Library at the
 | 13:00 13:45 | 🔴 **Keynote:** [“It's cheaper if you don't involve people”](keynotes#keynote-3-albert-gatt---universiteit-utrecht) | [Albert Gatt](keynotes#keynote-3-albert-gatt---universiteit-utrecht) | [Simone Balloccu](https://uccollab.github.io) |
 | 13:45 14:00 | 🟤 Get your tea 🫖 and coffee ☕️ for the poster session! |
 | 13:45 14:45 | 🟢 **Poster Presentations** | | [Barkavi Sundararajan](https://barkavisundararajan.github.io) |
-| ----- ----- | 🟢 Poster 1-1: Towards Grounded Evaluation of Multimodal Machine Translation Systems | [Sami Ul Haq](https://sami-haq99.github.io/) and [Sheila Castilho](https://www.dcu.ie/adapt/people/sheila-castilho) |
+| ----- ----- | 🟢 Poster 1-1: Towards Grounded Evaluation of Multimodal Machine Translation Systems* | [Sami Ul Haq](https://sami-haq99.github.io/) and [Sheila Castilho](https://www.dcu.ie/adapt/people/sheila-castilho) |
 | ----- ----- | 🟢 Poster 1-2: Checking for implicit assumptions in data-to-text generation | [Kristýna Onderková](https://kristyna-navitas.github.io), [Ondrej Dusek](https://ufal.mff.cuni.cz/ondrej-dusek) |
 | ----- ----- | 🟢 Poster 1-3: The Arabic Bible as an Evaluation tool: The Case Study of the Khalili Arabic Dialect | [Jakub Zbrzezny](https://www.abdn.ac.uk/people/jakub.zbrzezny), [Ehud Reiter](https://ehudreiter.com/), [Wei Zhao](https://www.abdn.ac.uk/people/wei.zhao) |
 | ----- ----- | 🟢 Poster 1-4: The NL4XAI program: A retrospective | [Jose Maria Alonso-Moral](https://citius.gal/team/jose-maria-alonso-moral/) |
@@ -66,3 +66,6 @@ The Symposium takes place on the 7th floor of the Sir Duncan Rice Library at the
 | 16:00 16:45 | 🟣 P-2-1: Retrospective on Referring Expression Generation | [Ehud Reiter](https://ehudreiter.com/), [Albert Gatt](https://www.uu.nl/staff/AGatt), [Sina Zarrieß](https://sinazarriess.github.io/), [Fahime Same](https://fsame.github.io)  |
 | 16:45 17:30 | 🔴 **Closing Keynote** “Lets Improve Research Culture”  | [Ehud Reiter](https://ehudreiter.com/) | [Saad Mahamood](https://saad.me.uk) |
 | 17:30 18:00 | ⚪️ Closing surprises 🤫 | |
+
+
+<small><i>* Remote presentation</i></small> 
