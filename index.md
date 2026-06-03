@@ -37,7 +37,7 @@ Evaluation in the field of Natural Language Generation (NLG) has changed conside
 - ~~**Event Pre-registration:** 15 May, 2026 [[Pre-registration Portal](https://forms.office.com/e/ZbUmxGraAS)]~~
 - ~~**Camera-ready:**  22 May, 2026~~
 - ~~**Event Registration:** 29 May, 2026 [Registration Booking Page](https://www.tickettailor.com/events/sicsa/2203784)~~ 
-- **Symposium dates:** 1-2 June, 2026. Aberdeen, United Kingdom.
+- ~~**Symposium dates:** 1-2 June, 2026. Aberdeen, United Kingdom.~~
 
 
 ## Symposium Organizers
@@ -136,10 +136,12 @@ Evaluation in the field of Natural Language Generation (NLG) has changed conside
   
 </div> <!--organizer-container!-->
 
-## Endorsements
-#### ACL SIGGEN
-<a href="https://inlgmeeting.org"><img src="/assets/images/siggen_logo.png" style="width: 10%; height: 10%"/></a>
-
+## Sponsorship & Endorsements
+<div>
+<a href="https://www.abdn.ac.uk"><img src="/assets/images/uoa_logo.png" style="width: 10%; height: 10%" alt="University of Aberdeen logo"/></a>
+<a href="https://sicsa.ac.uk"><img src="/assets/images/sicsa_logo.jpg" style="width: 10%; height: 10%" alt="SICSA logo"/></a>
+<a href="https://inlgmeeting.org"><img src="/assets/images/siggen_logo.png" style="width: 10%; height: 10%" alt="ACL SIGGEN logo"/></a>
+</div>
 
 
 

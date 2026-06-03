@@ -70,4 +70,10 @@ var store = [{
         "tags": [],
         "url": "/accepted-papers-now-avaliable/",
         "teaser": null
+      },{
+        "title": "Thank You!",
+        "excerpt":"Thank you for everyone for attending RetroEval 2026. We had a fantastic time discussing evaluation practices and celebrating Prof. Reiter’s career.   ","categories": [],
+        "tags": [],
+        "url": "/Thank-you!/",
+        "teaser": null
       }]

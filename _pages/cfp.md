@@ -45,7 +45,7 @@ Note: All deadlines are 23:59 UTC-12.
 - ~~**Extended Direct paper submission deadline (archival)**: 28 April, 2026 (was *24 April, 2026*)~~
 - ~~**New Notification of acceptance:**  11 May, 2026 (was *8 May, 2026*)~~
 - ~~**Camera-ready:**  22 May, 2026~~
-- **Symposium dates:** 1-2 June, 2026. Aberdeen, United Kingdom.
+- ~~**Symposium dates:** 1-2 June, 2026. Aberdeen, United Kingdom.~~
 
 
 # Submission
