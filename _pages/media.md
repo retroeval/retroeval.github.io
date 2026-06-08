@@ -148,10 +148,6 @@ gallery:
     image_path: /assets/images/event_images/poster_1_1.jpg
     alt: "Kristýna Onderková presents her poster on: Checking for implicit assumptions in data-to-text generation to a group."
     title: "Kristýna Onderková presents her poster on: Checking for implicit assumptions"
-  - url: /assets/images/event_images/poster_1_1.jpg
-    image_path: /assets/images/event_images/poster_1_1.jpg
-    alt: "Kristýna Onderková presents her poster on: Checking for implicit assumptions in data-to-text generation to a group."
-    title: "Kristýna Onderková presents her poster on: Checking for implicit assumptions"
   - url: /assets/images/event_images/poster_1_2.jpg
     image_path: /assets/images/event_images/poster_1_2.jpg
     alt: "Jakub Zbrzeżny presents his poster on: The Arabic Bible as an Evaluation tool: The Case Study of the Khalili Arabic Dialect to a group."
