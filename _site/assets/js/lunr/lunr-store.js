@@ -76,4 +76,10 @@ var store = [{
         "tags": [],
         "url": "/Thank-you!/",
         "teaser": null
+      },{
+        "title": "Images And Videos From The Event",
+        "excerpt":"Images and a few video clips taken during RetroEval symposium can now be viewed on our Media page.  ","categories": [],
+        "tags": [],
+        "url": "/images-and-videos-from-the-event/",
+        "teaser": null
       }]

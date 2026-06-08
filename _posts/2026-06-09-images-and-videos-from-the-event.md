@@ -1,0 +1,1 @@
+Images and a few video clips taken during RetroEval symposium can now be viewed on our [Media](_pages/media) page.
