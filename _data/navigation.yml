@@ -9,5 +9,7 @@ main:
     url: /_pages/keynotes
   - title: "Accepted Papers"
     url: /_pages/accepted_papers
+  - title: "Media"
+    url: /_pages/media
   - title: "Venue"
     url: /_pages/about
