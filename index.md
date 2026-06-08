@@ -26,20 +26,6 @@ header:
 Evaluation in the field of Natural Language Generation (NLG) has changed considerably over the past several decades. This special symposium in honour of [Prof. Ehud Reiter](https://ehudreiter.com)’s retirement provides a forum for academic and industry researchers to look back on the topic of how evaluations in the field of NLG have changed and to explore unaddressed challenges. The two day symposium will be held in-person at the [Sir Duncan Rice Library](https://www.abdn.ac.uk/library/libraries-spaces/the-sir-duncan-rice-library/) in the historic [University of Aberdeen](https://www.abdn.ac.uk), June 1-2, 2026. *For this symposium, we welcome submissions of long papers, short papers, and extended abstracts.*
 
 
-# Important dates
-*Note: All deadlines are 23:59 UTC-12.*
-
-- ~~**First call for papers:** 06 February, 2026~~
-- ~~**ARR commitment deadline (archival):** 16 March, 2026~~
-- ~~**Abstract submission deadline (non-archival)**: 17 April, 2026~~
-- ~~**Extended Direct paper submission deadline (archival)**: 28 April, 2026 (was *24 April, 2026*)~~
-- ~~**New Notification of acceptance:**  11 May, 2026 (was *8 May, 2026*)~~
-- ~~**Event Pre-registration:** 15 May, 2026 [[Pre-registration Portal](https://forms.office.com/e/ZbUmxGraAS)]~~
-- ~~**Camera-ready:**  22 May, 2026~~
-- ~~**Event Registration:** 29 May, 2026 [Registration Booking Page](https://www.tickettailor.com/events/sicsa/2203784)~~ 
-- ~~**Symposium dates:** 1-2 June, 2026. Aberdeen, United Kingdom.~~
-
-
 ## Symposium Organizers
 
 <div class="organizer-container" style="display: flex; flex-wrap: wrap; gap: 20px;">
@@ -97,7 +83,7 @@ Evaluation in the field of Natural Language Generation (NLG) has changed conside
   <div class="organizer" style="display: inline-block; text-align: center; width: 120px;">
       <img src="../assets/images/organizers/standard-size/barkavi_sundararajan.jpeg" alt="Barkavi Sundararajan" style="width: 100px; height: 100px; border-radius: 50%;">
      <a href="https://barkavisundararajan.github.io">
-         <p style="margin: 5px 0; font-weight: bold;">Barkavi Sundararajan</p>
+         <p style="margin: 5px 0; font-weight: bold;">s</p>
      </a>
       <span>University of Aberdeen</span>
   </div>
@@ -136,12 +122,10 @@ Evaluation in the field of Natural Language Generation (NLG) has changed conside
   
 </div> <!--organizer-container!-->
 
-## Sponsorship & Endorsements
-<div>
-<a href="https://www.abdn.ac.uk"><img src="/assets/images/uoa_logo.png" style="width: 10%; height: 10%" alt="University of Aberdeen logo"/></a>
-<a href="https://sicsa.ac.uk"><img src="/assets/images/sicsa_logo.jpg" style="width: 10%; height: 10%" alt="SICSA logo"/></a>
-<a href="https://inlgmeeting.org"><img src="/assets/images/siggen_logo.png" style="width: 10%; height: 10%" alt="ACL SIGGEN logo"/></a>
-</div>
+## Endorsements
+#### ACL SIGGEN
+<a href="https://inlgmeeting.org"><img src="/assets/images/siggen_logo.png" style="width: 10%; height: 10%"/></a>
+
 
 
 
