@@ -56,14 +56,6 @@ gallery:
     image_path: /assets/images/event_images/oral_2_2_2.jpg
     alt: "Ehud Reiter presenting his oral talk on: NLG Evaluation: Past, Present, Future"
     title: "Ehud Reiter presenting his oral talk on: NLG Evaluation: Past, Present, Future"
-  - url: /assets/images/event_images/oral_2_2_3.jpg
-    image_path: /assets/images/event_images/oral_2_2_3.jpg
-    alt: "Ehud Reiter presenting his oral talk on: NLG Evaluation: Past, Present, Future"
-    title: "Ehud Reiter presenting his oral talk on: NLG Evaluation: Past, Present, Future"
-  - url: /assets/images/event_images/oral_2_2_4.jpg
-    image_path: /assets/images/event_images/oral_2_2_4.jpg
-    alt: "Ehud Reiter presenting his oral talk on: NLG Evaluation: Past, Present, Future"
-    title: "Ehud Reiter presenting his oral talk on: NLG Evaluation: Past, Present, Future"
   - url: /assets/images/event_images/oral_2_2_5.jpg
     image_path: /assets/images/event_images/oral_2_2_5.jpg
     alt: "Ehud Reiter presenting his oral talk on: NLG Evaluation: Past, Present, Future"
